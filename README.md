@@ -9,7 +9,7 @@
 - General: Thats literally the bot's purpose
 - Image Manipulation: Ever wondered how you can create your own image?
 - Reaction Roles: Only one command but super useful!
-- Music(COMING SOON): Music in Discord!!!
+- Music: Music in Discord!!!
 
 # [Invite Now!](https://dsc.gg/jug)
 # [Want Help? Join this server!](https://discord.io/jugsupport)
